@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.1.2/bm_0.1.2_windows_amd64.tar.gz",
+            "bin": [
+                "bm.exe"
+            ],
+            "hash": "c0fc1eee720951a58b7736c998da75eb9e2e4e9b1bfecb97272fcbbbc2aec5c4"
+        },
+        "arm64": {
+            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.1.2/bm_0.1.2_windows_arm64.tar.gz",
+            "bin": [
+                "bm.exe"
+            ],
+            "hash": "2f7eb4a3a544f5b59b355091a82fcea2e69c2c8bf503b1ce5c54b4154b65e03d"
+        }
+    },
+    "homepage": "https://github.com/Shu-AFK/bm",
+    "license": "MIT",
+    "description": "Your command-line sidekick for teleporting to files, folders, and URLs in one hop."
+}
