@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.1.2/bm_0.1.2_windows_amd64.tar.gz",
+            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.2.0/bm_0.2.0_windows_amd64.tar.gz",
             "bin": [
                 "bm.exe"
             ],
-            "hash": "c0fc1eee720951a58b7736c998da75eb9e2e4e9b1bfecb97272fcbbbc2aec5c4"
+            "hash": "073bf775be464ba6c5f94f8801a15fbce55fa2f434e7a5168d98e760c4417724"
         },
         "arm64": {
-            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.1.2/bm_0.1.2_windows_arm64.tar.gz",
+            "url": "https://github.com/Shu-AFK/bm/releases/download/v0.2.0/bm_0.2.0_windows_arm64.tar.gz",
             "bin": [
                 "bm.exe"
             ],
-            "hash": "2f7eb4a3a544f5b59b355091a82fcea2e69c2c8bf503b1ce5c54b4154b65e03d"
+            "hash": "213b139ac57e79e45a08c2a77a86fe2017bca67c6efd96087d32451e5cb57123"
         }
     },
     "homepage": "https://github.com/Shu-AFK/bm",
